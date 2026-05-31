@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+.tarjeta {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  background: white;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.tarjeta img {
+  width: 150px;
+  border-radius: 50%;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+}
