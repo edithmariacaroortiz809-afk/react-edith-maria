@@ -4,20 +4,25 @@ body {
 }
 
 .tarjeta {
-  width: 300px;
+  width: 320px;
   margin: 50px auto;
   padding: 20px;
   background: white;
   text-align: center;
   border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .tarjeta img {
-  width: 150px;
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
   border-radius: 50%;
 }
 
 button {
-  padding: 10px;
+  padding: 10px 15px;
   cursor: pointer;
+  border: none;
+  border-radius: 5px;
 }

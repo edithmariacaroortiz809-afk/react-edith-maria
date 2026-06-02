@@ -1,3 +1,4 @@
+import "./App.css";
 import TarjetaPersonal from "./TarjetaPersonal";
 
 function App() {
